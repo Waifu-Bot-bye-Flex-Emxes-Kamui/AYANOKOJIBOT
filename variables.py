@@ -10,7 +10,7 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 496253947872  # Get this value from my.telegram.org/apps
+    API_ID = 14691251  # Get this value from my.telegram.org/apps
     API_HASH = "ce7153b02b496253947872656b3ee0d3"
 
     # Database configuration (PostgreSQL)
