@@ -100,7 +100,7 @@ async def ping(_, m: Message):
     delta_ping = time() - start
 
     up = strftime("%Hh %Mm %Ss", gmtime(time() - UPTIME))
-    image_url = "https://telegra.ph/file/f215a1c4adf25a5bad81b.jpg"
+    image_url = "https://telegra.ph/file/56d52ef4d9d395f6e72ca.jpg"
 
     # Send the image as a reply
     await replymsg.reply_photo(
